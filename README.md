@@ -36,10 +36,10 @@
 ---
 
 ## 🛠️ Tools & Libraries
-- Python
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- Jupyter Notebook
+- Python.
+- Pandas, NumPy.
+- Matplotlib, Seaborn.
+- Jupyter Notebook.
 
 ---
 
