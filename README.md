@@ -1,15 +1,15 @@
 # 🏠 Airbnb NYC 2019 Data Analysis
 
-📊 This project analyzes Airbnb listings in New York City using the 2019 dataset. It explores trends in availability, pricing, reviews, and location to generate insights for travelers, hosts, and data enthusiasts.
+📊 This project analyzes Airbnb listings in New York City using the 2019 dataset. It explores trends in availability , pricing, reviews, and location to generate insights for travelers, hosts, and data enthusiasts.
 
 ---
 
 ## 🚀 Project Highlights
 
 ✅ Geographic analysis:  
-- Listings by borough and neighbourhood
-- Heatmaps of latitude & longitude
-- Areas with highest prices or availability
+- Listings by borough and neighbourhood.
+- Heatmaps of latitude & longitude.
+- Areas with highest prices or availability.
 
 ✅ Supply & demand:
 - Distribution of room types (entire home, private room, shared)
